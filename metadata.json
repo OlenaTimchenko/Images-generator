@@ -1,0 +1,7 @@
+{
+  "name": " Olena AI Studio",
+  "description": "Professional AI Image Studio for high-quality text-to-image generation and AI photoshoots with social media optimizations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
